@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jyotsana-17
-- 👀 I’m seeking live projects of Data Analysis
+- 👀 I’m seeking live projects on Data Analysis
 - 🌱 I’m currently learning Python & Data Visualization tools
 - 📫 How to reach me jivika2092023@gmail.com
 - 😄 Pronouns: She/Her/Hers
