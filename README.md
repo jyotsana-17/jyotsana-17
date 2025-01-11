@@ -1,6 +1,8 @@
 # HR Data Analysis Portfolio
 
-This repository showcases various HR data analysis projects that highlight my skills in data analysis, data visualization, and reporting. These projects leverage Python, SQL, Tableau, Power BI, and Advanced Excel to extract insights from HR datasets and drive strategic decision-making.
+This repository showcases various HR data analysis projects that highlight my skills in data analysis, data visualization, and reporting. 
+<br>
+These projects leverage Python, SQL, Tableau, Power BI, and Advanced Excel to extract insights from HR datasets and drive strategic decision-making.
 
 ## Table of Contents
 
